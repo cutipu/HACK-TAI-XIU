@@ -1,5 +1,5 @@
 <div align=center>
-<p align="center"><img src="https://cdn.dribbble.com/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.png?compress=1&resize=400x300" width="800px" height="300px" alt="ddos"></p>
+<p align="center"><img src="https://cdn.dribbble.com/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.png?compress=1&resize=400x300" width="500px" height="300px" alt="ddos"></p>
  <p>
  <img src="https://img.shields.io/github/stars/cutipu/HACK-TAI-XIU-2023S?color=%23DF0067&style=for-the-badge"/> &nbsp;
  <img src="https://img.shields.io/github/forks/cutipu/HACK-TAI-XIU-2023?color=%239999FF&style=for-the-badge"/> &nbsp;
