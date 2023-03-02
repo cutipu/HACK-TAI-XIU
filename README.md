@@ -8,8 +8,7 @@
    <img src="https://img.shields.io/github/license/cutipu/HACK-TAI-XIU?color=%23E8E8E8&style=for-the-badge"/> &nbsp;
 
 ```sh
-- HACK ONLINE CASINO GAME with algorithms : Naive Bayes , Markov
-Experiment for research, gambling is not good
+- CHEAT/HACK ONLINE CASINO GAME
  
 ```
 <div align=center>
